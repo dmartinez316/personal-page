@@ -1,0 +1,17 @@
+{
+  "slug": "presencial",
+  "title": "Formación académica",
+  "description": "Formación académica e instituciones donde estudié",
+  "items": [
+    {
+      "name": "Universidad Tecnológica de Pereira",
+      "degree": "Ingeniero de sistemas y computación",
+      "date": "2011-2017"
+    },
+    {
+      "name": "Institución educativa Francisco Jose de Caldas",
+      "degree": "Bachiller académico",
+      "date": "2007-2009"
+    }
+  ]
+}

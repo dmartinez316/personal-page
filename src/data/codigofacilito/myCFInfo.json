@@ -1,0 +1,33 @@
+{
+  "data": {
+    "email": "david316_valdes@outlook.com",
+    "username": "david316valdes",
+    "certificates": [
+      {
+        "title": "Crea una sitio personal con Gatsby",
+        "progress": "53.0",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      },
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "progress": "53.0",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      }
+    ],
+    "articles": [],
+    "courses": [
+      {
+        "title": "Crea una sitio personal con Gatsby",
+        "progress": "53.0",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      },
+      {
+        "title": "Crea un sitio personal con Gatsby",
+        "progress": "53.0",
+        "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+      }
+    ],
+    "finished_courses": []
+  },
+  "errors": []
+}

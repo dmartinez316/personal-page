@@ -1,0 +1,15 @@
+{
+  "slug": "others",
+  "title": "Otra educación",
+  "description": "Cursos presenciales, certificaciones, etc.",
+  "items": [
+    {
+      "name": "Michigan English Test",
+      "details": { "score": "76", "CEFR": "CEFR: C1" }
+    },
+    {
+      "name": "Microcontroladores con Arduino",
+      "details": { "year": "2017" }
+    }
+  ]
+}

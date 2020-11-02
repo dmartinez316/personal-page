@@ -1,0 +1,35 @@
+{
+  "slug": "profesional",
+  "title": "Experiencia laboral",
+  "description": "Perfil profesional y experiencia laboral",
+  "items": [
+    {
+      "name": "Front end software developer",
+      "company": "Open Systems",
+      "how_long": "Diciembre 2019 — Presente",
+      "job_description": "Apoyar los procesos de diseño y construcción del portal de autogestión del producto Open Smartflex.",
+      "where": "Cali"
+    },
+    {
+      "name": "Product development specialist",
+      "company": "Open Systems",
+      "how_long": "Noviembre 2017 — Diciembre 2019",
+      "job_description": "Aporte a la mejora y calidad del alcance funcional del producto Open Smartflex mediante la investigación y definición de requisitos funcionales y no funcionales para la industria de los servicios públicos.",
+      "where": "Cali"
+    },
+    {
+      "name": "Java software developer",
+      "company": "Objetos y Sistemas Relacionales SAS",
+      "how_long": "Agosto 2017 — Octubre 2017",
+      "job_description": "Trabajé en la implementación y mejora de la herramienta BSC(Balanced Score Card) utilizando herramientas como Java JSF, Primefaces framework y Java EE.",
+      "where": "Pereira"
+    },
+    {
+      "name": "Full stack mobile developer",
+      "company": "Makila technologies",
+      "how_long": "Junio 2016 — Junio 2017",
+      "job_description": "Diseñé e implementé una aplicación móvil multiplataforma (iOS y Android) considerando aspectos como las bases de datos relacionales, interfaz de usuario, seguridad a través del aplicativo y QA.",
+      "where": "Pereira"
+    }
+  ]
+}
